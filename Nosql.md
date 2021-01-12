@@ -14,3 +14,13 @@ Ans 2
 Reference
 ---------
 https://www.xplenty.com/blog/dynamodb-vs-mongodb-differences/#:~:text=DynamoDB%20is%20a%20fully%20managed,fully%20managed%20with%20MongoDB%20Atlas.&text=DynamoDB%20uses%20tables%2C%20items%20and,and%20has%20fewer%20size%20restrictions.
+
+
+
+
+Ques 3 - Types of NoSQL Databases Explain ?
+Ans 3
+=====
+Reference
+---------
+https://www.educative.io/courses/definitive-guide-to-mongodb/7DjJ35jO4Dj?aid=5082902844932096&utm_source=google&utm_medium=cpc&utm_campaign=dynamic2&gclid=Cj0KCQiArvX_BRCyARIsAKsnTxNsHz0hWQNz8GpledOFRe2juRhHW_nDGFR8Sl6MF2b_2se4VoKnco4aApJNEALw_wcB
