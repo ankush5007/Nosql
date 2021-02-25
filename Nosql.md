@@ -4,6 +4,7 @@ Ans 1
 Reference
 ---------
 https://www.geeksforgeeks.org/top-5-reasons-to-choose-nosql/?ref=rp
+https://www.thoughtworks.com/insights/blog/nosql-databases-overview
 
 
 
