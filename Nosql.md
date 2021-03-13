@@ -36,3 +36,16 @@ Ans 4
 Reference
 ---------
 https://griddb.net/en/docs/NoSQL_Database_Architectural_Comparison.pdf
+
+
+
+
+Ques 5 - What is Cap therom  Explain?
+or
+Ques 5 - What is the CAP Theorem? MongoDB vs Cassandra vs RDBMS, where do they stand in the CAP theorem?
+Ans 5
+=====
+Reference
+---------
+https://bikas-katwal.medium.com/mongodb-vs-cassandra-vs-rdbms-where-do-they-stand-in-the-cap-theorem-1bae779a7a15
+https://www.analyticsvidhya.com/blog/2020/08/a-beginners-guide-to-cap-theorem-for-data-engineering/
