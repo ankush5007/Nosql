@@ -55,3 +55,4 @@ https://medium.com/@bikas.katwal10/mongodb-vs-cassandra-vs-rdbms-where-do-they-s
 https://cloudxlab.com/assessment/displayslide/345/nosql-cap-theorem#:~:text=Partition%20Tolerance%20is%20a%20guarantee,the%20system%20continues%20to%20perform.
 https://stackoverflow.com/questions/12346326/cap-theorem-availability-and-partition-tolerance
 https://towardsdatascience.com/cap-theorem-and-distributed-database-management-systems-5c2be977950e
+https://dzone.com/articles/understanding-the-cap-theorem
