@@ -42,6 +42,13 @@ https://griddb.net/en/docs/NoSQL_Database_Architectural_Comparison.pdf
 
 
 
+Ques 5 - What are the key points to Consider while Picking Nosql database for storage Explain?
+Ans 5
+=====
+Reference
+----------
+
+
 
 
 
