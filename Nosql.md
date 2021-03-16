@@ -96,6 +96,7 @@ Cap therom
 - CA Database
 =============
 - RDBMS(Mysql,Sql Server) support two characterstics of CAP theorm at a time in distrubuted system
+- A CA database delivers consistency and availability across all nodes. It can’t do this if there is a partition between any two nodes in the system, however, and therefore can’t deliver fault tolerance.
 
 - CP Database
 ==============
