@@ -99,7 +99,7 @@ Cap therom
 - CP
 =====
 - Mongodb ,Hbase,Redis support two characterstics of CAP theorm at a time in distrubuted system
-- A CP Based Database Provided consistency and Parition Tolernce at the expense of Availabilty means if Partition break down between two nodes so system has to shut down the in consistent node to maintain the consistency for other nodes 
+- A CP Based Database Provided consistency and Parition Tolernce at the expense of Availabilty means if Partition Occure between two nodes so system has to shut down the in consistent node to maintain the consistency for other nodes and make it unavailable until partition is resolved.so technically availablity is not given pr provided
 -AP
 =====
 - Cassandra ,Couch Db,Riak,DynamoDb support two characterstics of CAP theorm at a time in distrubuted system
