@@ -93,7 +93,7 @@ Cap therom
 - Today, NoSQL databases are classified based on the two CAP characteristics they support:All Nosql Comes under this
 - CA 
 ======
-
+- RDBMS(Mysql,Sql Server) support two characterstics of CAP theorm at a time in distrubuted system
 
 - CP
 =====
