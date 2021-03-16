@@ -52,7 +52,7 @@ Reference
 - There are many Types of Nosql database but few points always keep in mind
 1 - What kind of data you want to store either as a document based or column based or graph based or key value based
 2 - Nosql Database Distrubuted architecture
-3 - 
+3 - Where it fits as of Cap Theorm
 
 
 
