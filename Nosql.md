@@ -63,6 +63,9 @@ https://www.ibm.com/cloud/learn/cap-theorem#:~:text=A%20partition%20is%20a%20com
 
 Cap therom
 ===========
-- Cap stands for Consistent , Availbilty and Parition Tolerence To understand this let understand the distrubuted system.DS are the network where data are stored more than one machine(virtual or physical)
+- Cap stands for Consistent , Availbilty and Parition Tolerence To understand this let understand the distrubuted system.DS are the network where data are stored more than one machine(virtual or physical) at a same time and serving will be done at the same time. all cloud Application now a days are distrubuted system.
+
+
+- Consistent ,Availabilty and Parition Tolerence are the characterstics while designing distrubuted system.cap theorm tells that a distrubuted system can not have all three characterstics at a same time any of two can be applied at same time.
 
 
