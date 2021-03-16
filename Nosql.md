@@ -63,6 +63,6 @@ https://www.ibm.com/cloud/learn/cap-theorem#:~:text=A%20partition%20is%20a%20com
 
 Cap therom
 ===========
-
+- Cap stands for Consistent , Availbilty and Parition Tolerence To understand this let understand the distrubuted system.DS are the network where data are stored more than one machine(virtual or physical)
 
 
