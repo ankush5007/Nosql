@@ -57,3 +57,4 @@ https://stackoverflow.com/questions/12346326/cap-theorem-availability-and-partit
 https://towardsdatascience.com/cap-theorem-and-distributed-database-management-systems-5c2be977950e
 https://dzone.com/articles/understanding-the-cap-theorem
 https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/
+https://www.ibm.com/cloud/learn/cap-theorem#:~:text=A%20partition%20is%20a%20communications,between%20nodes%20in%20the%20system.
