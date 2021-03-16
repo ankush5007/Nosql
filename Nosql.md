@@ -92,14 +92,16 @@ Cap therom
 - Availablity means data should be available request should be served by a node as a response if one of the nodes are down other nodes are responsible to deilver response
 - Partition Tolerence  is a comminication break with in distrubuted system.or communicatio break down between two or more nodes.So means Cluster should continue to work despite any break down between the node
 - Today, NoSQL databases are classified based on the two CAP characteristics they support:All Nosql Comes under this
-- CA 
-======
+
+- CA Database
+=============
 - RDBMS(Mysql,Sql Server) support two characterstics of CAP theorm at a time in distrubuted system
 
-- CP
-=====
+- CP Database
+==============
 - Mongodb ,Hbase,Redis support two characterstics of CAP theorm at a time in distrubuted system
 - A CP Based Database Provided consistency and Parition Tolernce at the expense of Availabilty means if Partition Occure between two nodes so system has to shut down the in consistent node to maintain the consistency for other nodes and make it unavailable until partition is resolved.so technically availablity is not given pr provided
--AP
-=====
+
+-AP Databse
+============
 - Cassandra ,Couch Db,Riak,DynamoDb support two characterstics of CAP theorm at a time in distrubuted system
