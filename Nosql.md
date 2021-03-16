@@ -83,6 +83,7 @@ Cap therom
 ===========
 - Cap stands for Consistent , Availbilty and Parition Tolerence To understand this let understand the distrubuted system.DS are the network where data are stored more than one machine or nodes(virtual or physical) at a same time and serving will be done at the same time. all cloud Application now a days are distrubuted system.
 
+- Any distrubuted can not deliver all three characterstics of CAP therom at a time
 
 - Consistent ,Availabilty and Parition Tolerence are the characterstics while designing distrubuted system.cap theorm tells that a distrubuted system can not deliver all three characterstics at a same time any of two can be applied at same time.Every RDBMS or Nosql has it's own Characterstics (CAP) either they support CA or CP or AP  so accordingly you can pick database and work accordingly.
 - Generally To build a distrubuted system we prefer mostly nosql datanase becuase they have default horizental scaling distrubuted architecture where we can put more machines or node to scale fast and to elimnate single point of failure
