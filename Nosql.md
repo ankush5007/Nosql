@@ -43,6 +43,8 @@ https://griddb.net/en/docs/NoSQL_Database_Architectural_Comparison.pdf
 Ques 5 - What is Cap therom  Explain?
 or
 Ques 5 - What is the CAP Theorem? MongoDB vs Cassandra vs RDBMS, where do they stand in the CAP theorem?
+or
+Ques 5 - What are the characterstics of Distrubuted Theorm Explain?
 Ans 5
 =====
 Reference
