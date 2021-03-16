@@ -96,7 +96,7 @@ Cap therom
 - CA Database
 =============
 - RDBMS(Mysql,Sql Server) support two characterstics of CAP theorm at a time in distrubuted system
-- A CA database delivers consistency and availability across all nodes. It can’t do this if there is a partition between any two nodes in the system, however, and therefore can’t deliver fault tolerance.
+- A CA database delivers consistency and availability across all nodes. It can’t do this if there is a partition between any two nodes in the system, however, and therefore can’t deliver fault tolerance. system will go down
 
 - CP Database
 ==============
@@ -106,3 +106,4 @@ Cap therom
 -AP Databse
 ============
 - Cassandra ,Couch Db,Riak,DynamoDb support two characterstics of CAP theorm at a time in distrubuted system
+- AP Database provide Availbilty and Partition tolorence at the expense of Consistency . means if any partition occurs between Nodes so nodes should be available and provide wrong unconsistent data but will not get down.when ever Partition resolves then AP databse typically resync fresh data with other nodes to repair all inconsistency in the system.
