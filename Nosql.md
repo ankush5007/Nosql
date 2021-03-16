@@ -63,9 +63,9 @@ https://www.ibm.com/cloud/learn/cap-theorem#:~:text=A%20partition%20is%20a%20com
 
 Cap therom
 ===========
-- Cap stands for Consistent , Availbilty and Parition Tolerence To understand this let understand the distrubuted system.DS are the network where data are stored more than one machine(virtual or physical) at a same time and serving will be done at the same time. all cloud Application now a days are distrubuted system.
+- Cap stands for Consistent , Availbilty and Parition Tolerence To understand this let understand the distrubuted system.DS are the network where data are stored more than one machine or nodes(virtual or physical) at a same time and serving will be done at the same time. all cloud Application now a days are distrubuted system.
 
 
 - Consistent ,Availabilty and Parition Tolerence are the characterstics while designing distrubuted system.cap theorm tells that a distrubuted system can not have all three characterstics at a same time any of two can be applied at same time.Every RDBMS or Nosql has it's own Characterstics (CAP) either they support CA or CP or AP  so accordingly you can pick database and work accordingly.
 
-
+- Now we understand Cap Characterstics one by one .Consistent Means Data will be in Consistent state every time means all client will see the same data at same time there will be no inconsistent state.no matter in which node they connect and request query for read or write if client make a write request that updated data should be replicated to all other nodes on the spot before acknowledging back to the client so if another clients make read request it should get updated data connected from any node in the cluster
