@@ -9,6 +9,8 @@ https://www.thoughtworks.com/insights/blog/nosql-databases-overview
 
 
 
+
+
 Ques 2 - What is the main difference between Mongodb vs DynamoDb ?
 Ans 2
 ======
@@ -40,12 +42,15 @@ https://griddb.net/en/docs/NoSQL_Database_Architectural_Comparison.pdf
 
 
 
-Ques 5 - What is Cap therom  Explain?
+
+
+
+Ques 6 - What is Cap therom  Explain?
 or
-Ques 5 - What is the CAP Theorem? MongoDB vs Cassandra vs RDBMS, where do they stand in the CAP theorem?
+Ques 6 - What is the CAP Theorem? MongoDB vs Cassandra vs RDBMS, where do they stand in the CAP theorem?
 or
-Ques 5 - What are the characterstics of Distrubuted Theorm Explain?
-Ans 5
+Ques 6 - What are the characterstics of Distrubuted Theorm Explain?
+Ans 6
 =====
 Reference
 ---------
@@ -67,5 +72,6 @@ Cap therom
 
 
 - Consistent ,Availabilty and Parition Tolerence are the characterstics while designing distrubuted system.cap theorm tells that a distrubuted system can not have all three characterstics at a same time any of two can be applied at same time.Every RDBMS or Nosql has it's own Characterstics (CAP) either they support CA or CP or AP  so accordingly you can pick database and work accordingly.
+- Generally to build a distrubuted system we prefer mostly nosql datanase becuase they have default horizental scaling distrubuted architecture
 
 - Now we understand Cap Characterstics one by one .Consistent Means Data will be in Consistent state every time means all client will see the same data at same time there will be no inconsistent state.no matter in which node they connect and request query for read or write should gets up to date data. if client make a write request that updated data on one node should be replicated to all other nodes on the spot before acknowledging back to the client so if another clients make read request it should get updated data connected from any node in the cluster.so in Consistent system if one data writes value in one node it should expect to get the fresh value from any node
