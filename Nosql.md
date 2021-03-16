@@ -89,3 +89,5 @@ Cap therom
 
 - Consistent Means Data will be in Consistent state every time means all client will see the same data at same time there will be no inconsistent state.no matter in which node they connect and request query for read or write should gets up to date data. if client make a write request that updated data on one node should be replicated to all other nodes on the spot before acknowledging back to the client so if another clients make read request it should get updated data connected from any node in the cluster.so in Consistent system if one data writes value in one node it should expect to get the fresh value from any node 
 - Availablity means data should be available request should be served by a node as a response if one of the nodes are down other nodes are responsible to deilver response
+- Partition is a comminication break with in distrubuted system.or communicatio break down between two or more nodes.
+So means Cluster should continue to work despite any break down between the node
