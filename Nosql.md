@@ -97,8 +97,8 @@ Cap therom
 
 - CP
 =====
-- Mongodb ,Hbase,Redis support two characterstics of CAP theorm at a time.
+- Mongodb ,Hbase,Redis support two characterstics of CAP theorm at a time in distrubuted system
 
 -AP
 =====
-
+- Cassandra ,Couch Db,Riak,DynamoDb support two characterstics of CAP theorm at a time in distrubuted system
