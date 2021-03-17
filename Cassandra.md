@@ -61,3 +61,9 @@ Reference
 https://opencredo.com/blogs/how-not-to-use-cassandra-like-an-rdbms-and-what-will-happen-if-you-do/
 
 
+Ques 7 - Why Cassandra Writes Faster than Tradiontal RDBS Explain ?
+Ans 7
+======
+Reference
+---------
+https://www.linkedin.com/pulse/why-cassandra-writes-faster-than-traditional-rdbms-vishal-kharjul/
