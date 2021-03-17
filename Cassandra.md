@@ -44,3 +44,12 @@ https://blog.pythian.com/cassandra-use-cases/
 https://towardsdatascience.com/when-to-use-cassandra-and-when-to-steer-clear-72b7f2cede76
 
 
+
+Ques 6 - How Not To Use Cassandra Like An RDBMS (and what will happen if you do) Explain ?
+Ans 6
+=====
+Reference
+---------
+https://opencredo.com/blogs/how-not-to-use-cassandra-like-an-rdbms-and-what-will-happen-if-you-do/
+
+
