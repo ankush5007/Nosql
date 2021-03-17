@@ -16,3 +16,12 @@ Ans 2
 Reference
 ---------
 https://stackoverflow.com/questions/13010225/why-many-refer-to-cassandra-as-a-column-oriented-database
+
+
+
+Ques 3 - What is the Distrubuted Architecture behind Cassandra database Explain ?
+Ans 3
+======
+Reference
+---------
+https://medium.com/@brunocrt/the-distributed-architecture-behind-cassandra-database-fba8b5cc4785
