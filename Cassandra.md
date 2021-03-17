@@ -35,3 +35,11 @@ Reference
 ---------
 
 
+Ques 5 - CASSANDRA USE CASES: WHEN TO USE AND WHEN NOT TO USE CASSANDRA ?
+Ans 5
+======
+Reference
+---------
+https://blog.pythian.com/cassandra-use-cases/
+
+
