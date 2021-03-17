@@ -28,6 +28,7 @@ Ans 3
 Reference
 ---------
 https://medium.com/@brunocrt/the-distributed-architecture-behind-cassandra-database-fba8b5cc4785
+https://www.scnsoft.com/blog/cassandra-performance
 
 
 
