@@ -47,6 +47,8 @@ Ans 5
 =====
 Reference
 ----------
+https://www.dataversity.net/choose-right-nosql-database-application/#
+
 
 
 - There are many Types of Nosql database but few points always keep in mind
