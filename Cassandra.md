@@ -6,6 +6,7 @@ Ans 1
 Reference
 ---------
 https://medium.com/@manishyadavv/how-to-install-cassandra-on-mac-os-d9338fcfcba4
+https://gist.github.com/hkhamm/a9a2b45dd749e5d3b3ae
 
 
 
