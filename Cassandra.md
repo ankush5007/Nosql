@@ -18,6 +18,7 @@ Reference
 ---------
 https://stackoverflow.com/questions/13010225/why-many-refer-to-cassandra-as-a-column-oriented-database
 http://dbmsmusings.blogspot.com/2010/03/distinguishing-two-major-types-of_29.html
+http://bytecontinnum.com/2016/07/column-stores-column-oriented-databases/
 
 
 
