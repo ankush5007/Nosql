@@ -29,6 +29,8 @@ https://medium.com/@brunocrt/the-distributed-architecture-behind-cassandra-datab
 
 
 Ques 4 - how Cassandra Manage Sharding Explain?
+or
+Ques 4 - how Cassandra Manage Replication Explain ?
 Ans 4
 ======
 Reference
@@ -43,7 +45,7 @@ Reference
 https://blog.pythian.com/cassandra-use-cases/
 https://towardsdatascience.com/when-to-use-cassandra-and-when-to-steer-clear-72b7f2cede76
 https://data-flair.training/blogs/cassandra-features/
-
+https://www.javatpoint.com/use-cases-of-cassandra#:~:text=Use%20Cases%2F%20Applications%20of%20Cassandra&text=Cassandra%20is%20a%20great%20database,Cassandra%20is%20best%20for%20them.
 
 
 
