@@ -32,6 +32,7 @@ https://www.scnsoft.com/blog/cassandra-performance
 
 
 
+
 Ques 4 - how Cassandra Manage Sharding Explain?
 or
 Ques 4 - how Cassandra Manage Replication Explain ?
@@ -69,3 +70,4 @@ Reference
 ---------
 https://www.linkedin.com/pulse/why-cassandra-writes-faster-than-traditional-rdbms-vishal-kharjul/
 https://www.quora.com/Why-are-the-writes-of-Cassandra-executed-faster-than-MySQLs
+https://blog.softwaremill.com/cassandra-writes-in-depth-6ea8d7581eb
