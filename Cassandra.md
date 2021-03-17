@@ -41,5 +41,6 @@ Ans 5
 Reference
 ---------
 https://blog.pythian.com/cassandra-use-cases/
+https://towardsdatascience.com/when-to-use-cassandra-and-when-to-steer-clear-72b7f2cede76
 
 
