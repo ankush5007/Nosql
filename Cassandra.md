@@ -25,3 +25,13 @@ Ans 3
 Reference
 ---------
 https://medium.com/@brunocrt/the-distributed-architecture-behind-cassandra-database-fba8b5cc4785
+
+
+
+Ques 4 - how Cassandra Manage Sharding Explain?
+Ans 4
+======
+Reference
+---------
+
+
