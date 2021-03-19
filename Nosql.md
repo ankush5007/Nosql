@@ -128,6 +128,8 @@ Cap therom
 Ques 7 - Difference between Sharded Nothing and Shared disk Architecture Explain?
 or
 Ques 7 - Shared Nothing Architecture: The Key to Scale Your App to Millions of Users Explain?
+or
+Ques 7 - Why Old based typical file system can not scaled as horizental scaling Explain ?
 Ans 7
 =====
 Reference
