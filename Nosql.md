@@ -31,7 +31,11 @@ https://www.guru99.com/nosql-tutorial.html#:~:text=NoSQL%20Database%20is%20a%20n
 https://www.analyticsvidhya.com/blog/2020/09/different-nosql-databases-every-data-scientist-must-know/
 https://www.mongodb.com/nosql-explained
 
-
+-There are four type of Nosql database category 
+- Key Value store
+- Document store
+- Colum Family
+- Graph base Store
 
 
 
