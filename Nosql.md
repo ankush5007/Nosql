@@ -33,6 +33,8 @@ https://www.guru99.com/nosql-tutorial.html#:~:text=NoSQL%20Database%20is%20a%20n
 https://www.analyticsvidhya.com/blog/2020/09/different-nosql-databases-every-data-scientist-must-know/
 https://www.mongodb.com/nosql-explained
 
+- NoSql scales horizentally and distrubuted in nature beucase these are no relational database
+
 -There are four type of Nosql database category 
 - Key Value store
 - Document store
@@ -119,3 +121,13 @@ Cap therom
 ============
 - Cassandra ,Couch Db,Riak,DynamoDb support two characterstics of CAP theorm at a time in distrubuted system
 - AP Database provide Availbilty and Partition tolorence at the expense of Consistency . means if any partition occurs between Nodes so nodes should be available and provide wrong unconsistent data but will not get down.when ever Partition resolves then AP databse typically resync fresh data with other nodes to repair all inconsistency in the system.
+
+
+
+
+Ques 7 - Difference between Sharded Nothing and Shared disk Architecture Explain?
+Ans 7
+=====
+Reference
+---------
+https://www.geeksforgeeks.org/difference-between-shared-nothing-architecture-and-shared-disk-architecture/
