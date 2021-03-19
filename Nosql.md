@@ -136,6 +136,7 @@ Reference
 ---------
 https://www.geeksforgeeks.org/difference-between-shared-nothing-architecture-and-shared-disk-architecture/
 https://mobisoftinfotech.com/resources/mguide/shared-nothing-architecture-the-key-to-scale-your-app-to-millions-of-users/
+http://www.benstopford.com/2009/11/24/understanding-the-shared-nothing-architecture/
 
 
 
