@@ -126,8 +126,14 @@ Cap therom
 
 
 Ques 7 - Difference between Sharded Nothing and Shared disk Architecture Explain?
+or
+Ques 7 - Shared Nothing Architecture: The Key to Scale Your App to Millions of Users Explain?
 Ans 7
 =====
 Reference
 ---------
 https://www.geeksforgeeks.org/difference-between-shared-nothing-architecture-and-shared-disk-architecture/
+https://mobisoftinfotech.com/resources/mguide/shared-nothing-architecture-the-key-to-scale-your-app-to-millions-of-users/
+
+
+
