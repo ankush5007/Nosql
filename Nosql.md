@@ -32,6 +32,9 @@ https://www.analyticsvidhya.com/blog/2020/09/different-nosql-databases-every-dat
 https://www.mongodb.com/nosql-explained
 
 
+
+
+
 Ques 4 - Explain Nosql Database Architectural Comparison ?
 Ans 4
 ======
