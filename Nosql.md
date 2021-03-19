@@ -22,6 +22,8 @@ https://www.xplenty.com/blog/dynamodb-vs-mongodb-differences/#:~:text=DynamoDB%2
 
 
 Ques 3 - Types of NoSQL Databases Explain ?
+or
+Ques 3 - What and When to use Nosql Explain ?
 Ans 3
 =====
 Reference
