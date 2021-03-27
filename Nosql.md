@@ -142,8 +142,12 @@ http://www.benstopford.com/2009/11/24/understanding-the-shared-nothing-architect
 
 
 Ques 8 - What is Graph Database and Use case Explain ?
+or
+Ques 8 - How Do You Know If a Graph Database Solves the Problem?
 Ans 8
 ======
 Reference
 ---------
 https://www.profium.com/en/blog/graph-database-use-cases/
+https://medium.com/neo4j/how-do-you-know-if-a-graph-database-solves-the-problem-a7da10393f5
+
