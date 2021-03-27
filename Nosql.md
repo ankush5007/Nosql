@@ -140,3 +140,10 @@ http://www.benstopford.com/2009/11/24/understanding-the-shared-nothing-architect
 
 
 
+
+Ques 8 - What is Graph Database and Use case Explain ?
+Ans 8
+======
+Reference
+---------
+https://www.profium.com/en/blog/graph-database-use-cases/
