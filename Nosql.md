@@ -144,6 +144,8 @@ http://www.benstopford.com/2009/11/24/understanding-the-shared-nothing-architect
 Ques 8 - What is Graph Database and Use case Explain ?
 or
 Ques 8 - How Do You Know If a Graph Database Solves the Problem?
+or
+Ques 8 - What are the useCase to pick Graph Database over other Nosql database ?
 Ans 8
 ======
 Reference
