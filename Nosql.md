@@ -150,4 +150,8 @@ Reference
 ---------
 https://www.profium.com/en/blog/graph-database-use-cases/
 https://medium.com/neo4j/how-do-you-know-if-a-graph-database-solves-the-problem-a7da10393f5
+https://medium.com/@6point6ltd/use-cases-for-graph-databases-37ceb4903edd
+https://www.bmc.com/blogs/graph-database-use-cases/
+https://neo4j.com/use-cases/
+https://www.profium.com/en/blog/graph-database-use-cases/
 
