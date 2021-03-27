@@ -156,4 +156,4 @@ https://medium.com/@6point6ltd/use-cases-for-graph-databases-37ceb4903edd
 https://www.bmc.com/blogs/graph-database-use-cases/
 https://neo4j.com/use-cases/
 https://www.profium.com/en/blog/graph-database-use-cases/
-
+https://neo4j.com/blog/native-vs-non-native-graph-technology/
