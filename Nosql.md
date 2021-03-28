@@ -158,3 +158,4 @@ https://neo4j.com/use-cases/
 https://www.profium.com/en/blog/graph-database-use-cases/
 https://neo4j.com/blog/native-vs-non-native-graph-technology/
 https://neo4j.com/developer-blog/how-do-you-know-if-a-graph-database-solves-the-problem/
+https://medium.com/@ja3606/using-facebook-to-learn-some-basics-about-graph-theory-ecadb31cd127
