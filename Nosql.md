@@ -146,7 +146,6 @@ or
 Ques 8 - How Do You Know If a Graph Database Solves the Problem?
 or
 Ques 8 - What are the useCase to pick Graph Database over other Nosql database ?
-
 Ans 8
 ======
 Reference
@@ -160,3 +159,4 @@ https://www.profium.com/en/blog/graph-database-use-cases/
 https://neo4j.com/blog/native-vs-non-native-graph-technology/
 https://neo4j.com/developer-blog/how-do-you-know-if-a-graph-database-solves-the-problem/
 https://medium.com/@ja3606/using-facebook-to-learn-some-basics-about-graph-theory-ecadb31cd127
+https://medium.com/dev-genius/graph-database-vs-relational-database-70f6156f7415
