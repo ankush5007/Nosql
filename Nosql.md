@@ -162,3 +162,4 @@ https://medium.com/@ja3606/using-facebook-to-learn-some-basics-about-graph-theor
 https://medium.com/dev-genius/graph-database-vs-relational-database-70f6156f7415
 https://medium.com/@mtbuzzerseo/graph-database-vs-relational-database-e5798281f6ef
 https://www.youtube.com/watch?v=UodTzseLh04
+https://neo4j.com/developer/graph-db-vs-rdbms/
