@@ -161,3 +161,4 @@ https://neo4j.com/developer-blog/how-do-you-know-if-a-graph-database-solves-the-
 https://medium.com/@ja3606/using-facebook-to-learn-some-basics-about-graph-theory-ecadb31cd127
 https://medium.com/dev-genius/graph-database-vs-relational-database-70f6156f7415
 https://medium.com/@mtbuzzerseo/graph-database-vs-relational-database-e5798281f6ef
+https://www.youtube.com/watch?v=UodTzseLh04
