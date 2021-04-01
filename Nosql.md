@@ -146,6 +146,10 @@ or
 Ques 8 - How Do You Know If a Graph Database Solves the Problem?
 or
 Ques 8 - What are the useCase to pick Graph Database over other Nosql database ?
+or
+Ques 8 - How social media Plateform use Graph Database efficently Explain?
+or
+Ques 8 - How Google Map use Graph Database Effiecently Explain?
 Ans 8
 ======
 Reference
