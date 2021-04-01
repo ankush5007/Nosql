@@ -16,3 +16,14 @@ Ans 2
 Reference
 ---------
 https://www.tutorialspoint.com/neo4j/neo4j_cql_creating_relationship.htm
+
+
+
+Ques 3  - How to Install neo4j On Mac Explain ?
+or
+Ques 3 - 
+Ans 3
+======
+Reference
+---------
+https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781783287253/1/ch01lvl1sec12/single-node-installation-of-neo4j-over-mac-os-x
