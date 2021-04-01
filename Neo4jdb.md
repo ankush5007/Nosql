@@ -27,3 +27,15 @@ Ans 3
 Reference
 ---------
 https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781783287253/1/ch01lvl1sec12/single-node-installation-of-neo4j-over-mac-os-x
+
+
+
+
+Ques 4 - Intro to Cypher Query language Explain?
+or
+Ques 4 - What is CQS Explain?
+Ans 4
+======
+Reference
+----------
+https://www.youtube.com/watch?v=1TSBXZMv6tc
