@@ -145,7 +145,7 @@ Ques 8 - What is Graph Database and Use case Explain ?
 or
 Ques 8 - How Do You Know If a Graph Database Solves the Problem?
 or
-Ques 8 - What are the useCase to pick Graph Database over other Nosql database ?
+Ques 8 - What are the real UseCase to pick Graph Database over other Nosql database ?
 or
 Ques 8 - How social media Plateform use Graph Database efficently Explain?
 or
@@ -167,3 +167,4 @@ https://medium.com/dev-genius/graph-database-vs-relational-database-70f6156f7415
 https://medium.com/@mtbuzzerseo/graph-database-vs-relational-database-e5798281f6ef
 https://www.youtube.com/watch?v=UodTzseLh04
 https://neo4j.com/developer/graph-db-vs-rdbms/
+https://www.profium.com/en/blog/graph-database-use-cases/#:~:text=The%20Graph%20Database%20is%20optimized,such%20as%20GDPR%20and%20HIPAA.
