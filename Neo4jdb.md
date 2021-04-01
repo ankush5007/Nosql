@@ -21,7 +21,7 @@ https://www.tutorialspoint.com/neo4j/neo4j_cql_creating_relationship.htm
 
 Ques 3  - How to Install neo4j On Mac Explain ?
 or
-Ques 3 - 
+Ques 3 - How to Install neo4j On Ubuntu Explain ?
 Ans 3
 ======
 Reference
