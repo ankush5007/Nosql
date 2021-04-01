@@ -168,3 +168,4 @@ https://medium.com/@mtbuzzerseo/graph-database-vs-relational-database-e5798281f6
 https://www.youtube.com/watch?v=UodTzseLh04
 https://neo4j.com/developer/graph-db-vs-rdbms/
 https://www.profium.com/en/blog/graph-database-use-cases/#:~:text=The%20Graph%20Database%20is%20optimized,such%20as%20GDPR%20and%20HIPAA.
+https://neo4j.com/blog/5-noteworthy-use-cases-graph-technology-analytics/
