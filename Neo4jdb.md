@@ -70,3 +70,11 @@ Reference
 https://medium.com/dev-genius/graph-database-vs-relational-database-70f6156f7415
 http://entradasoft.com/blogs/graph-database-vs-relational-database
 https://www.mssqltips.com/sqlservertip/6105/relational-databases-vs-graph-databases/
+
+
+
+Ques 8 - Design Ecommerce Db Structure by using graph Database Explain?
+Ans 8
+======
+Reference
+----------
