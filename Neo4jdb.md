@@ -47,3 +47,12 @@ Ans 5
 Reference
 ---------
 https://medium.com/@anjalitiwari02199/connect-to-neo4j-graph-database-49e4977b596b
+
+
+
+Ques 6 - How Neo4j Browser use Bolt+routing Explain?
+Ans 6
+======
+Reference
+---------
+https://neo4j.com/developer/kb/how-neo4j-browser-bolt-routing/#:~:text=There%20are%20two%20kinds%20of,driver%20for%20user%20administration%20frames
