@@ -32,6 +32,7 @@ https://www.educative.io/courses/definitive-guide-to-mongodb/7DjJ35jO4Dj?aid=508
 https://www.guru99.com/nosql-tutorial.html#:~:text=NoSQL%20Database%20is%20a%20non,and%20real%2Dtime%20web%20apps.
 https://www.analyticsvidhya.com/blog/2020/09/different-nosql-databases-every-data-scientist-must-know/
 https://www.mongodb.com/nosql-explained
+https://www.digitalocean.com/community/tutorials/a-comparison-of-nosql-database-management-systems-and-models
 
 - NoSql scales horizentally and distrubuted in nature beucase these are no relational database
 
