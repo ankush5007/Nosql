@@ -68,3 +68,4 @@ Ans 7
 Reference
 ----------
 https://medium.com/dev-genius/graph-database-vs-relational-database-70f6156f7415
+http://entradasoft.com/blogs/graph-database-vs-relational-database
