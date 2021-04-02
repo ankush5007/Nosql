@@ -17,6 +17,7 @@ Reference
 ---------
 https://www.tutorialspoint.com/neo4j/neo4j_cql_creating_relationship.htm
 https://www.javatpoint.com/neo4j-tutorial
+https://www.pluralsight.com/courses/graph-databases-neo4j-introduction?aid=7010a000002BWq6AAG&promo=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=IN_Dynamic&utm_content=&gclid=CjwKCAjwgZuDBhBTEiwAXNofRMqXR5140EdGJYfMJ8cWrqH_hxmR_pnCGXfAJAmOR-jkWWo6uOcW9BoC24gQAvD_BwE
 
 
 
