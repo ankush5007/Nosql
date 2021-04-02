@@ -59,3 +59,12 @@ Ans 6
 Reference
 ---------
 https://neo4j.com/developer/kb/how-neo4j-browser-bolt-routing/#:~:text=There%20are%20two%20kinds%20of,driver%20for%20user%20administration%20frames
+
+
+
+Ques 7 - How Graph database is different from RDbms Explain?
+Ans 7
+======
+Reference
+----------
+https://medium.com/dev-genius/graph-database-vs-relational-database-70f6156f7415
